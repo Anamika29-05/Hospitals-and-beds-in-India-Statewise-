@@ -1,1 +1,4 @@
-django
+pandas
+matplotlib
+scikit-learn
+numpy
